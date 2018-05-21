@@ -1,0 +1,22 @@
+{
+  "name": "victory",
+  "version": "1.0.0",
+  "description": "scala.js facades for [victory](https://github.com/FormidableLabs/victory)",
+  "main": "sjs.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scalajs-react-interface/victory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scalajs-react-interface/victory/issues"
+  },
+  "homepage": "https://github.com/scalajs-react-interface/victory#readme",
+  "dependencies": {
+    "typescript": "^2.8.3"
+  }
+}
